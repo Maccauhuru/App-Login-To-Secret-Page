@@ -5,7 +5,11 @@ Small app that allows you access to view a secret page only if you are logged in
 ## Packages Utilized Include
 
 +express-session
+
 +mongoose
+
 +passport
+
 +passport-local
+
 +passport-local-mongoose
